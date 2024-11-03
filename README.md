@@ -1,6 +1,5 @@
 # 💫 About Me:
-🥀 Learning JSX, React and 69 others.<br><br>🔭 SpaceX FanBoi, die for space😼<br><br>I do fullstack and a bit of everything ❤️
-
+🌼 Right now, I’m getting the hang of TSX and React, along with a whole bunch of other tech!<br><br>🚀 I’m a total SpaceX nerd—seriously, space is my jam! 🌌<br><br>I do full-stack development and love exploring a bit of everything. Always learning! ❤️
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/IsharaMadushankaBandara) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/pixel__eye) 
