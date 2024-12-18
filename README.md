@@ -24,11 +24,15 @@
 
 ### 🔝 Top Contributed Repo
 
-<p align=center>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=600 align="center" src="https://github-contributor-stats.vercel.app/api?username=ishara-madu&limit=5&theme=radical&combine_all_yearly_contributions=true" width="100%"/>
-</a>
-</p>
+<div style="display: flex;flex-wrap: wrap; gap: 5px;">
+        <div>
+            <a href="https://github.com/anuraghazra/github-readme-stats">
+                <img height=300
+                    src="https://github-contributor-stats.vercel.app/api?username=ishara-madu&limit=5&theme=radical&combine_all_yearly_contributions=true"
+                    width="100%" />
+            </a>
+        </div>
+</div>
 
 ## 🏆 GitHub Trophies
 
@@ -40,17 +44,17 @@
 
 ## 💰 You can help me by Donating
   
-<p align=center>
+<p >
 <a href="https://buymeacoffee.com/https://buymeacoffee.com/ishara.madu">
-  <img align="center" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 </a>
 </p>
 
 ---
 
-<p align=center>
+<p >
 <a href="https://visitcount.itsvg.in">
-  <img  align="center" src="https://visitcount.itsvg.in/api?id=ishara-madu&icon=6&color=12"/>
+  <img  src="https://visitcount.itsvg.in/api?id=ishara-madu&icon=6&color=12"/>
 </a>
 </p>
 
