@@ -59,17 +59,17 @@
 </p>
 
 ---
- <div style="display: flex;flex-wrap: wrap; gap: 5px;width:100%">
+ <div style="display: flex;flex-wrap: wrap; gap: 5px;width:100%;">
         <div>
             <a href="https://github.com/ishara-madu/NotesApp">
                 <img
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=ishara-madu&repo=NotesApp&show_owner=true&theme=dark" />
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=ishara-madu&repo=NotesApp&theme=transparent&border_color=9e9e9d" />
             </a>
         </div>
         <div>
             <a href="https://github.com/ishara-madu/PirithApp">
                 <img
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=ishara-madu&repo=PirithApp&show_owner=true&theme=dark" />
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=ishara-madu&repo=PirithApp&theme=transparent&border_color=9e9e9d" />
             </a>
         </div>
    </div>
