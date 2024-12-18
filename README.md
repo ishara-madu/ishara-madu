@@ -60,19 +60,20 @@
 
 ---
 <div align="center">
-    <a href="https://github.com/ishara-madu/NotesApp">
+    <a href="https://github.com/ishara-madu/NotesApp" style="margin: 5px;">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishara-madu&repo=NotesApp&theme=transparent" />
     </a>
-    <a href="https://github.com/ishara-madu/PirithApp">
+    <a href="https://github.com/ishara-madu/PirithApp" style="margin: 5px;">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishara-madu&repo=PirithApp&theme=transparent" />
     </a>
-    <a href="https://github.com/ishara-madu/StudioManagementSystemDesktop">
+    <a href="https://github.com/ishara-madu/StudioManagementSystemDesktop" style="margin: 5px;">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishara-madu&repo=StudioManagementSystemDesktop&theme=transparent" />
     </a>
-    <a href="https://github.com/ishara-madu/QuizApp">
+    <a href="https://github.com/ishara-madu/QuizApp" style="margin: 5px;">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishara-madu&repo=QuizApp&theme=transparent" />
     </a>
 </div>
+
 
 
 
