@@ -6,17 +6,21 @@
 
 # 📊 GitHub Stats
 
-<p align=center>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ishara-madu&show_icons=true&theme=radical" />
-</a>
-</p>
-<p align=center>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ishara-madu&theme=radical&hide_border=true&short_numbers=true&card_width=500" alt="GitHub Streak" /></a>
-</p>
-<p align=center>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishara-madu&langs_count=20&card_width=600&layout=compact&theme=radical" alt="GitHub Streak" width="100%" /></a>
-</p>
+<div style="display: flex;flex-wrap: wrap; gap: 5px;">
+        <div>
+            <a href="https://github.com/anuraghazra/github-readme-stats">
+                <img height="200"
+                    src="https://github-readme-stats.vercel.app/api?username=ishara-madu&show_icons=true&theme=radical" />
+            </a>
+        </div>
+        <div>
+            <a href="https://git.io/streak-stats">
+                <img height="200"
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishara-madu&langs_count=20&card_width=600&layout=compact&theme=radical"
+                    alt="GitHub Streak" />
+            </a>
+        </div>
+    </div>
 
 ### 🔝 Top Contributed Repo
 
