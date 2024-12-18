@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![ishara-madu's Stats](https://github-readme-stats.vercel.app/api?username=ishara-madu&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
-![ishara-madu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishara-madu&theme=vue-dark&hide_border=true)<br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)<br>
 
 ![ishara-madu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishara-madu&theme=radical&show_icons=true&hide_border=true&layout=compact)
 ### 🔝 Top Contributed Repo
