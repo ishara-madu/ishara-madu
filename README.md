@@ -44,10 +44,7 @@
 
 ## 💰 You can help me by Donating
   
-<p >
-<a href="https://www.buymeacoffee.com/ishara.madu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-</a>
-</p>
+<a href="https://www.buymeacoffee.com/ishara.madu" target="_blank"><img src="https://github.com/ishara-madu/ishara-madu/blob/main/Buy%20Me%20a%20Beer.png?raw=true" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;border-radius:5px" ></a>
 
 ---
 
