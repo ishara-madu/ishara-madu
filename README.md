@@ -15,6 +15,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ishara-madu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ishara-madu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/ishara.madu) 
