@@ -59,17 +59,30 @@
 </p>
 
 ---
- <div style="display: flex">
-        <div style="display: flex">
-            <a href="https://github.com/ishara-madu/NotesApp">
-                <img
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=ishara-madu&repo=NotesApp&theme=transparent&border_color=9e9e9d" />
-            </a>
-        </div>
-        <div style="display: flex">
-            <a href="https://github.com/ishara-madu/PirithApp">
-                <img
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=ishara-madu&repo=PirithApp&theme=transparent&border_color=9e9e9d" />
-            </a>
-        </div>
-   </div>
+<table width="100%" style="text-align: center; margin: auto;">
+        <tr>
+            <td>
+                <a href="https://github.com/ishara-madu/NotesApp">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishara-madu&repo=NotesApp&theme=transparent" />
+                </a>
+            </td>
+            <td>
+                 <a href="https://github.com/ishara-madu/PirithApp">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishara-madu&repo=PirithApp&theme=transparent" />
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/ishara-madu/StudioManagementSystemDesktop">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishara-madu&repo=StudioManagementSystemDesktop&theme=transparent" />
+                </a>
+            </td>
+            <td>
+                 <a href="https://github.com/ishara-madu/QuizApp">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishara-madu&repo=QuizApp&theme=transparent" />
+                </a>
+            </td>
+        </tr>
+    </table>
+
