@@ -36,7 +36,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p align=center>
+<p >
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=auto align="center" src="https://github-profile-trophy.vercel.app/?username=ishara-madu&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="100%"/>
 </a>
