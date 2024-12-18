@@ -59,7 +59,7 @@
 </p>
 
 ---
- <div style="display: flex;flex-wrap: wrap; gap: 5px;">
+ <div style="display: flex;flex-wrap: wrap; gap: 5px;width:100%">
         <div>
             <a href="https://github.com/ishara-madu/NotesApp">
                 <img
