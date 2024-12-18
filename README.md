@@ -24,7 +24,7 @@
 
 ### 🔝 Top Contributed Repo
 
-<div style="display: flex;flex-wrap: wrap; gap: 5px;">
+<div>
         <div>
             <a href="https://github.com/anuraghazra/github-readme-stats">
                 <img height=300
