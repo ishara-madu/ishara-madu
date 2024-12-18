@@ -59,30 +59,27 @@
 </p>
 
 ---
-<table width="100%" style="text-align: center; margin: auto;">
-        <tr>
-            <td>
-                <a href="https://github.com/ishara-madu/NotesApp">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishara-madu&repo=NotesApp&theme=transparent" />
-                </a>
-            </td>
-            <td>
-                 <a href="https://github.com/ishara-madu/PirithApp">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishara-madu&repo=PirithApp&theme=transparent" />
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/ishara-madu/StudioManagementSystemDesktop">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishara-madu&repo=StudioManagementSystemDesktop&theme=transparent" />
-                </a>
-            </td>
-            <td>
-                 <a href="https://github.com/ishara-madu/QuizApp">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishara-madu&repo=QuizApp&theme=transparent" />
-                </a>
-            </td>
-        </tr>
-    </table>
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-content: center; align-items: center; text-align: center; margin: auto;">
+    <div>
+        <a href="https://github.com/ishara-madu/NotesApp">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishara-madu&repo=NotesApp&theme=transparent" />
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/ishara-madu/PirithApp">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishara-madu&repo=PirithApp&theme=transparent" />
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/ishara-madu/StudioManagementSystemDesktop">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishara-madu&repo=StudioManagementSystemDesktop&theme=transparent" />
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/ishara-madu/QuizApp">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishara-madu&repo=QuizApp&theme=transparent" />
+        </a>
+    </div>
+</div>
+
 
