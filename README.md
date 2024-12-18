@@ -59,17 +59,17 @@
 </p>
 
 ---
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishara-madu&repo=NotesApp" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishara-madu&repo=PirithApp" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishara-madu&repo=StudioManagementSystemDesktop" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishara-madu&repo=QuizApp" />
-  </a>
-</div>
+ <div style="display: flex;flex-wrap: wrap; gap: 5px;">
+        <div>
+            <a href="https://github.com/ishara-madu/NotesApp">
+                <img
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=ishara-madu&repo=NotesApp&show_owner=true&theme=dark" />
+            </a>
+        </div>
+        <div>
+            <a href="https://github.com/ishara-madu/PirithApp">
+                <img
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=ishara-madu&repo=PirithApp&show_owner=true&theme=dark" />
+            </a>
+        </div>
+   </div>
