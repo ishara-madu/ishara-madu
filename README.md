@@ -29,7 +29,7 @@
             <a href="https://github.com/anuraghazra/github-readme-stats">
                 <img height=300
                     src="https://github-contributor-stats.vercel.app/api?username=ishara-madu&limit=5&theme=radical&combine_all_yearly_contributions=true"
-                    width="100%" />
+                   />
             </a>
         </div>
 </div>
